@@ -879,7 +879,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 .hero__call-to-action {
   clear: both;
   text-align: center;
-  padding-top: 70px;
+  padding-top: 20px;
 }
 
 .hero__button {
